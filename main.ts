@@ -16,6 +16,3 @@ input.onGesture(Gesture.LogoDown, function () {
 })
 let Sprite: game.LedSprite = null
 Sprite = game.createSprite(2, 2)
-basic.forever(function () {
-	
-})
